@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Adaptador</string>
+
+    <string-array name="horario_de_clases">
+        <item>Matematicas</item>
+        <item>Naturales</item>
+         <item>Sociales</item>
+        <item>Lenguaje</item>
+        <item>Fisica</item>
+        <item>Quimica</item>
+    </string-array>
+
+    <string-array name="dias_semana">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Sabado</item>
+
+    </string-array>
+
+</resources>
