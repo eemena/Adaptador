@@ -21,9 +21,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        String [] titulos = getResources().getStringArray(R.array.horario_de_clases);
-        String [] subtitulos = getResources().getStringArray(R.array.dias_semana);
-       //   ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,titulos);
+        String[] titulos = getResources().getStringArray(R.array.horario_de_clases);
+        String[] subtitulos = getResources().getStringArray(R.array.dias_semana);
+        //ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,titulos);
         //ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this, R.array.horario_de_clases,android.R.layout.simple_list_item_1);
 
         lista = new ArrayList<>();
